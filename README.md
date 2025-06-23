@@ -2,6 +2,9 @@
 
 A simple Retrieval-Augmented Generation (RAG) pipeline using OpenAI, FAISS, Prefect, and Gradio. This project allows you to upload your own text file, ask questions, and get context-aware answers from your documents.
 
+![RAG_Dash](RAG_Dash.png)
+![chat](Chat.png)
+
 ## Features
 
 - Upload your own `.txt` file (one document per line)
