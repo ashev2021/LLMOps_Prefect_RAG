@@ -45,8 +45,8 @@ A simple Retrieval-Augmented Generation (RAG) pipeline using OpenAI, FAISS, Pref
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/LLMfromZero.git
-cd LLMfromZero
+git clone 
+cd 
 ```
 
 ### 2. Create and Activate a Virtual Environment (Recommended)
@@ -136,9 +136,6 @@ You can run and monitor the pipeline using Prefect's CLI and UI, making developm
 
 ---
 
-## License
-
-MIT License
 
 ---
 
