@@ -90,7 +90,14 @@ pip install openai faiss-cpu numpy python-dotenv gradio prefect
 ### 6. Run the Application
 
 ```sh
+.\.venv\Scripts\activate
 python ui.py
+
+```
+In another terminal:
+```sh
+prefect server start
+
 ```
 
 - This will launch a Gradio web interface in your browser.
